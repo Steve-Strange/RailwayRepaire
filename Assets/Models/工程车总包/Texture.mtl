@@ -1,0 +1,162 @@
+newmtl 1
+map_Kd tex\\Textures 2_19d49792f6e64f92b1bf7bc6407999fe.jpeg
+
+newmtl 1_2
+map_Kd tex\\Textures 1.jpeg
+
+newmtl 1_3
+map_Kd tex\\Textures 4_1bd6c5d19d8c42c280ded771f2a4e3ec.jpeg
+
+newmtl 1_4
+map_Kd tex\\Textures 3_c1765ccf2be24047869c223f5cb6c0af.jpeg
+
+newmtl 2
+map_Kd tex\\Textures Engineer_6963b7963ea24ee7be7ec67e691f9119.jpeg
+
+newmtl 1_5
+map_Kd tex\\Textures Wheel_5f3e74d1b8124dd09a9f7a0798c39c86.jpeg
+
+newmtl 3
+map_Kd tex\\Textures 2_5b453d87159c4952863a4db5a03c2759.jpeg
+
+newmtl 3_2
+map_Kd tex\\Textures Wheel_975c59487caf4980a0b17fb01f6113ef.jpeg
+
+newmtl 3_3
+map_Kd tex\\Textures 1_52c758852e7940138a810bdb74ecb8d0.jpeg
+
+newmtl 3_4
+map_Kd tex\\Textures 4.jpeg
+
+newmtl 3_5
+map_Kd tex\\Textures Engineer_312b272b5abf44d3a2be6730c9a7eff5.jpeg
+
+newmtl 4
+map_Kd tex\\Textures 2_c4ea71b0aa084b7f9cbc0a1280008b60.jpeg
+
+newmtl 4_2
+map_Kd tex\\Textures 1_726e1e8cfee24d488bcc1a05bb0a5554.jpeg
+
+newmtl 4_3
+map_Kd tex\\Textures 4_27a421142db94e1ebdff6cdf29ec364e.jpeg
+
+newmtl 4_4
+map_Kd tex\\Textures Engineer_134f6e41d17c4058ba9a1ec4b253bfb3.jpeg
+
+newmtl 5
+map_Kd tex\\Textures 1_82139ff4b92347a3a0cdd0b9835f5dc2.jpeg
+
+newmtl 5_2
+map_Kd tex\\Textures 2_7d496eeaf83941ee9cd4486933deba80.jpeg
+
+newmtl 5_3
+map_Kd tex\\Textures Engineer_7aa08bde7502431bb601eb3391a74945.jpeg
+
+newmtl 5_4
+map_Kd tex\\Textures 4_9f9e19a04f964c918250e630d8436186.jpeg
+
+newmtl 5_5
+map_Kd tex\\Textures Wheel_04eedd4727324adbb4a3972964c2c771.jpeg
+
+newmtl 6
+map_Kd tex\\Textures 1_5e8bf331116c4ebc92a9bbc04e57ee73.jpeg
+
+newmtl 6_2
+map_Kd tex\\Textures 2_615de6fc300c4c83987973538896c9e3.jpeg
+
+newmtl 6_3
+map_Kd tex\\Textures Engineer_8cb95bf3577f4051ae7a33c59561a63e.jpeg
+
+newmtl 6_4
+map_Kd tex\\Textures 3.jpeg
+
+newmtl 6_5
+map_Kd tex\\Textures Wheel_09db3b5060044537a304b0022573288a.jpeg
+
+newmtl 8
+map_Kd tex\\Textures 1_d7291e8fb07a4afd9361b48624600e39.jpeg
+
+newmtl 8_2
+map_Kd tex\\Textures 4_5cf6637720b645f89b3513fd937c8119.jpeg
+
+newmtl 8_3
+map_Kd tex\\Textures Engineer_f9d34607997d4d69b419486125fd7655.jpeg
+
+newmtl 8_4
+map_Kd tex\\Textures 2_2e59e90b6df346f3b0826ddeb76021b6.jpeg
+
+newmtl 8_5
+map_Kd tex\\Textures Wheel_e3f2961d4d174c84a2e5a8152df7070b.jpeg
+
+newmtl 10
+map_Kd tex\\Textures 1_4ce0f4456e5d4b5591afcc0bb7ff2e7f.jpeg
+
+newmtl 10_2
+map_Kd tex\\Textures 4_dc28349412074d4d853a19c7ba3f5aab.jpeg
+
+newmtl 10_3
+map_Kd tex\\Textures Engineer_bb1115d3e68a414f9ea199f61e3176e6.jpeg
+
+newmtl 10_4
+map_Kd tex\\Textures Wheel_619d9f2ac6944559a0934be2dbcd46c9.jpeg
+
+newmtl 11
+map_Kd tex\\Textures 1_ceb1ff66a8fe45c79ddc6ed97dcc9c4e.jpeg
+
+newmtl 11_2
+map_Kd tex\\Textures 4_df009349f62c40cc80d40ee0a003d294.jpeg
+
+newmtl 11_3
+map_Kd tex\\Textures Engineer_fa6aec6881c54584a51cd5d4babeeeaa.jpeg
+
+newmtl 12
+map_Kd tex\\Textures 1_6a41de0426a84528bb6dc7581067dd8a.jpeg
+
+newmtl 12_2
+map_Kd tex\\Textures 4_f6a350e4663a4266bda6113f485900c1.jpeg
+
+newmtl 12_3
+map_Kd tex\\Textures Engineer.jpeg
+
+newmtl 12_4
+map_Kd tex\\Textures Wheel_afa99489a580490ca105b48710e54a35.jpeg
+
+newmtl 9
+map_Kd tex\\Textures 1_46732410f0e84892b358375ed284d2c9.jpeg
+
+newmtl 9_2
+map_Kd tex\\Textures 4_784a24c585b74df4a33a65dcd0fc670d.jpeg
+
+newmtl 9_3
+map_Kd tex\\Textures Engineer_0a12907709674308bdc0fb9e5f3e9876.jpeg
+
+newmtl 9_4
+map_Kd tex\\Textures 2_98936c10af3b4cad97c2a661d6e337d9.jpeg
+
+newmtl 9_5
+map_Kd tex\\Textures Wheel.jpeg
+
+newmtl 2_2
+map_Kd tex\\Textures 2.jpeg
+
+newmtl 2_3
+map_Kd tex\\Textures 1_a90232d52cd54415ba9251b3158286da.jpeg
+
+newmtl 2_4
+map_Kd tex\\Textures 4_21542207c67341baa7e2e249b81e797b.jpeg
+
+newmtl 7
+map_Kd tex\\Textures 2_147a13e8ae3a49ec93506305843ebace.jpeg
+
+newmtl 7_2
+map_Kd tex\\Textures Wheel_4d1991b3e1ec4835bd399cc26048e8d4.jpeg
+
+newmtl 7_3
+map_Kd tex\\Textures 1_0858223adc44438c815cac6fbb66001b.jpeg
+
+newmtl 7_4
+map_Kd tex\\Textures 4_a6816d6b29e14696b8d8ec32ed8abf71.jpeg
+
+newmtl 7_5
+map_Kd tex\\Textures Engineer_d6686e09cde24abbb7e26ab227064fde.jpeg
+
