@@ -75,3 +75,5 @@ crashlytics-build.properties
 .plastic/
 .vsconfig
 Packages/
+Assets/Models/railcar.fbx
+Assets/Models/railcar.fbx.meta
